@@ -1,0 +1,1 @@
+create table Emp(ID number(5), Name varchar(10) , Age number(3) , Salary number(8) , Desig varchar(10));
